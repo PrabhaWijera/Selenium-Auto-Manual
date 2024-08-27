@@ -16,7 +16,7 @@ public class Main {
 
       //  1] Launch browser (chorme)
        // ChromeDriver driver=new ChromeDriver();
-
+        // this is chorme browser boject
         WebDriver driver =new ChromeDriver();
 
         // 2] Open URL https://demo.Opencart.com/
